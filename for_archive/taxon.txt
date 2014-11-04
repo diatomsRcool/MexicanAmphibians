@@ -1,0 +1,1132 @@
+T100	Acris crepitans	T419	species
+T101	Agalychnis callidryas	T420	species
+T102	Agalychnis moreletii	T420	species
+T103	Ambystoma amblycephalum	T421	species
+T104	Ambystoma andersoni	T421	species
+T105	Ambystoma bombypellum	T421	species
+T106	Ambystoma dumerilii	T421	species
+T107	Ambystoma leorae	T421	species
+T108	Ambystoma mexicanum	T421	species
+T109	Ambystoma ordinarium	T421	species
+T110	Ambystoma rosaceum	T421	species
+T111	Ambystoma tigrinum	T421	species
+T112	Anaxyrus boreas	T422	species
+T113	Anaxyrus cognatus	T422	species
+T114	Anaxyrus compactilis	T422	species
+T115	Anaxyrus debilis	T422	species
+T116	Anaxyrus kelloggi	T422	species
+T117	Anaxyrus punctatus	T422	species
+T118	Anaxyrus retiformis	T422	species
+T119	Anaxyrus woodhousii	T422	species
+T120	Aneides lugubris	T423	species
+T121	Batrachoseps major	T424	species
+T122	Bolitoglossa alberchi	T425	species
+T123	Bolitoglossa chinanteca	T425	species
+T124	Bolitoglossa engelhardti	T425	species
+T125	Bolitoglossa flavimembris	T425	species
+T126	Bolitoglossa flaviventris	T425	species
+T127	Bolitoglossa franklini	T425	species
+T128	Bolitoglossa hartwegi	T425	species
+T129	Bolitoglossa hermosa	T425	species
+T130	Bolitoglossa lincolni	T425	species
+T131	Bolitoglossa macrinii	T425	species
+T132	Bolitoglossa mexicana	T425	species
+T133	Bolitoglossa mulleri	T425	species
+T134	Bolitoglossa oaxacensis	T425	species
+T135	Bolitoglossa occidentalis	T425	species
+T136	Bolitoglossa platydactyla	T425	species
+T137	Bolitoglossa riletti	T425	species
+T138	Bolitoglossa rostrata	T425	species
+T139	Bolitoglossa rufescens	T425	species
+T140	Bolitoglossa stuarti	T425	species
+T141	Bolitoglossa veracrucis	T425	species
+T142	Bolitoglossa yucatana	T425	species
+T143	Bolitoglossa zapoteca	T425	species
+T144	Bromeliohyla bromeliacia	T426	species
+T145	Charadrahyla trux	T427	species
+T146	Chiropterotriton arboreus	T428	species
+T147	Chiropterotriton chiropterus	T428	species
+T148	Chiropterotriton chondrostega	T428	species
+T149	Chiropterotriton cracens	T428	species
+T150	Chiropterotriton dimidiatus	T428	species
+T151	Chiropterotriton lavae	T428	species
+T152	Chiropterotriton magnipes	T428	species
+T153	Chiropterotriton mosaueri	T428	species
+T154	Chiropterotriton multidentatus	T428	species
+T155	Chiropterotriton orculus	T428	species
+T156	Chiropterotriton priscus	T428	species
+T157	Chiropterotriton terrestris	T428	species
+T158	Craugastor alfredii	T429	species
+T159	Craugastor amniscola	T429	species
+T160	Craugastor augusti	T429	species
+T161	Craugastor berkenbuschii	T429	species
+T162	Craugastor brocchi	T429	species
+T163	Craugastor decoratus	T429	species
+T164	Craugastor glaucus	T429	species
+T165	Craugastor greggi	T429	species
+T166	Craugastor guerreroensis	T429	species
+T167	Craugastor hobartsmithi	T429	species
+T168	Craugastor laticeps	T429	species
+T169	Craugastor lineatus	T429	species
+T170	Craugastor loki	T429	species
+T171	Craugastor matudai	T429	species
+T172	Craugastor megalotympanum	T429	species
+T173	Craugastor mexicanus	T429	species
+T174	Craugastor montanus	T429	species
+T175	Craugastor occidentalis	T429	species
+T176	Craugastor omiltemanus	T429	species
+T177	Craugastor pelorus	T429	species
+T178	Craugastor polymniae	T429	species
+T179	Craugastor pozo	T429	species
+T180	Craugastor pygmaeus	T429	species
+T181	Craugastor rhodopis	T429	species
+T182	Craugastor rugulosus	T429	species
+T183	Craugastor rupinius	T429	species
+T184	Craugastor silvicola	T429	species
+T185	Craugastor spatulatus	T429	species
+T186	Craugastor stuarti	T429	species
+T187	Craugastor tarahumaraensis	T429	species
+T188	Craugastor taylori	T429	species
+T189	Craugastor uno	T429	species
+T190	Craugastor vocalis	T429	species
+T191	Craugastor vulcani	T429	species
+T192	Craugastor yucatanensis	T429	species
+T193	Cryptotriton adelos	T430	species
+T194	Cryptotriton alvarezdeltoroi	T430	species
+T195	Dendropsophus ebraccatus	T431	species
+T196	Dendropsophus microcephalus	T431	species
+T197	Dendropsophus sartori	T431	species
+T198	Dendrotriton megarhinus	T432	species
+T199	Dendrotriton xolocalcae	T432	species
+T200	Dermophis mexicanus	T433	species
+T201	Dermophis oaxacae	T433	species
+T202	Diaglena spatulata	T434	species
+T203	Duellmanohyla chamulae	T435	species
+T204	Duellmanohyla ignicolor	T435	species
+T205	Ecnomiohyla echinata	T436	species
+T206	Ecnomiohyla miotympanum	T436	species
+T207	Ecnomiohyla valancifer	T436	species
+T208	Eleutherodactylus angustidigitorum	T437	species
+T209	Eleutherodactylus cystignathoides	T437	species
+T210	Eleutherodactylus dennisi	T437	species
+T211	Eleutherodactylus dilatus	T437	species
+T212	Eleuthrodactylus albolabris	T437	species
+T213	Eleutherodactylus grandis	T437	species
+T214	Eleutherodactylus guttilatus	T437	species
+T215	Eleutherodactylus interorbitalis	T437	species
+T216	Eleutherodactylus leprus	T437	species
+T217	Eleutherodactylus longipes	T437	species
+T218	Eleutherodactylus marnockii	T437	species
+T219	Eleutherodactylus maurus	T437	species
+T220	Eleutherodactylus modestus	T437	species
+T221	Eleutherodactylus nitidus	T437	species
+T222	Eleutherodactylus nivicolimae	T437	species
+T223	Eleutherodactylus pallidus	T437	species
+T224	Eleutherodactylus pipilans	T437	species
+T225	Eleutherodactylus planirostris	T437	species
+T226	Eleutherodactylus rubrimaculatus	T437	species
+T227	Eleutherodactylus rufescens	T437	species
+T228	Eleutherodactylus saxatilis	T437	species
+T229	Eleutherodactylus syristes	T437	species
+T230	Eleutherodactylus teretistes	T437	species
+T231	Eleutherodactylus verrucipes	T437	species
+T232	Eleutherodactylus verruculatus	T437	species
+T233	Engystomops pustulosus	T438	species
+T234	Ensatina eschscholtzii	T439	species
+T235	Exerodonta abdivita	T440	species
+T236	Exerodonta bivocata	T440	species
+T237	Exerodonta chimalapa	T440	species
+T238	Exerodonta juanitae	T440	species
+T239	Exerodonta melanomma	T440	species
+T240	Exerodonta smaragdina	T440	species
+T241	Exerodonta sumichrasti	T440	species
+T242	Exerodonta xera	T440	species
+T243	Gastrophryne elegans	T441	species
+T244	Gastrophryne olivacea	T441	species
+T245	Hyalinobatrachium fleischmanni	T442	species
+T246	Hyla arenicolor	T443	species
+T247	Hyla euphorbiacea	T443	species
+T248	Hyla eximia	T443	species
+T249	Hyla plicata	T443	species
+T250	Hyla wrightorum	T443	species
+T251	Hypopachus variolosus	T444	species
+T252	Incilius alvarius	T445	species
+T253	Incilius canaliferus	T445	species
+T254	Incilius cavifrons	T445	species
+T255	Incilius coccifer	T445	species
+T256	Incilius cristatus	T445	species
+T257	Incilius gemmifer	T445	species
+T258	Incilius luetkenii	T445	species
+T259	Incilius marmoreus	T445	species
+T260	Incilius mazatlanensis	T445	species
+T261	Incilius perplexus	T445	species
+T262	Incilius tutelarius	T445	species
+T263	Incilius valliceps	T445	species
+T264	Leptodactylus fragilis	T446	species
+T265	Leptodactylus melanonotus	T446	species
+T266	Lithobates berlandieri	T447	species
+T267	Lithobates catesbeianus	T447	species
+T268	Lithobates chiricahuensis	T447	species
+T269	Lithobates dunni	T447	species
+T270	Lithobates forreri	T447	species
+T271	Lithobates lemosespinali	T447	species
+T272	Lithobates magnaocularis	T447	species
+T273	Lithobates megapoda	T447	species
+T274	Lithobates omiltemanus	T447	species
+T275	Lithobates pustulosus	T447	species
+T276	Lithobates sierramadrensis	T447	species
+T277	Lithobates tarahumarae	T447	species
+T278	Lithobates tlaloci	T447	species
+T279	Lithobates vaillanti	T447	species
+T280	Lithobates yavapaiensis	T447	species
+T281	Megastomatohyla mixomaculata	T448	species
+T282	Notophthalmus meridionalis	T449	species
+T283	Nyctanolis pernix	T450	species
+T284	Oedipina elongata	T451	species
+T285	Pachymedusa dacnicolor	T452	species
+T286	Parvimolge townsendi	T453	species
+T287	Plectrohyla pachyderma	T454	species
+T288	Plectrohyla arborescandens	T454	species
+T289	Plectrohyla avia	T454	species
+T290	Plectrohyla bistincta	T454	species
+T291	Plectrohyla calvicollina	T454	species
+T292	Plectrohyla celata	T454	species
+T293	Plectrohyla cyanomma	T454	species
+T294	Plectrohyla cyclada	T454	species
+T295	Plectrohyla guatemalensis	T454	species
+T296	Plectrohyla hazelae	T454	species
+T297	Plectrohyla lacertosa	T454	species
+T298	Plectrohyla matudai	T454	species
+T299	Plectrohyla mykter	T454	species
+T300	Plectrohyla pentheter	T454	species
+T301	Plectrohyla psarosema	T454	species
+T302	Plectrohyla pycnochila	T454	species
+T303	Plectrohyla sabrina	T454	species
+T304	Plectrohyla sagorum	T454	species
+T305	Plectrohyla siopela	T454	species
+T306	Plectrohyla thorectes	T454	species
+T307	Pseudacris cadaverina	T455	species
+T308	Pseudacris clarkii	T455	species
+T309	Pseudacris regilla	T455	species
+T310	Pseudoeurycea ahuitzotl	T456	species
+T311	Pseudoeurycea altamontana	T456	species
+T312	Pseudoeurycea amuzga	T456	species
+T313	Pseudoeurycea anitae	T456	species
+T314	Pseudoeurycea aquatica	T456	species
+T315	Pseudoeurycea aurantia	T456	species
+T316	Pseudoeurycea bellii	T456	species
+T317	Pseudoeurycea boneti	T456	species
+T318	Pseudoeurycea brunnata	T456	species
+T319	Pseudoeurycea cephalica	T456	species
+T320	Pseudoeurycea cochranae	T456	species
+T321	Pseudoeurycea conanti	T456	species
+T322	Pseudoeurycea firscheini	T456	species
+T323	Pseudoeurycea gadovii	T456	species
+T324	Pseudoeurycea galeanae	T456	species
+T325	Pseudoeurycea gigantea	T456	species
+T326	Pseudoeurycea goebeli	T456	species
+T327	Pseudoeurycea juarezi	T456	species
+T328	Pseudoeurycea leprosa	T456	species
+T329	Pseudoeurycea lineola	T456	species
+T330	Pseudoeurycea longicauda	T456	species
+T331	Pseudoeurycea lynchi	T456	species
+T332	Pseudoeurycea maxima	T456	species
+T333	Pseudoeurycea melanomolga	T456	species
+T334	Pseudoeurycea mixcoatl	T456	species
+T335	Pseudoeurycea mixteca	T456	species
+T336	Pseudoeurycea mystax	T456	species
+T337	Pseudoeurycea naucampatepetl	T456	species
+T338	Pseudoeurycea nigra	T456	species
+T339	Pseudoeurycea nigromaculata	T456	species
+T340	Pseudoeurycea obesa	T456	species
+T341	Pseudoeurycea orchileucos	T456	species
+T342	Pseudoeurycea orchimelas	T456	species
+T343	Pseudoeurycea papenfussi	T456	species
+T344	Pseudoeurycea parva	T456	species
+T345	Pseudoeurycea praecellens	T456	species
+T346	Pseudoeurycea quetzalanensis	T456	species
+T347	Pseudoeurycea rex	T456	species
+T348	Pseudoeurycea saltator	T456	species
+T349	Pseudoeurycea scandens	T456	species
+T350	Pseudoeurycea smithi	T456	species
+T351	Pseudoeurycea tenchalli	T456	species
+T352	Pseudoeurycea teotepec	T456	species
+T353	Pseudoeurycea tlahcuiloh	T456	species
+T354	Pseudoeurycea tlilicxitl	T456	species
+T355	Pseudoeurycea unguidentis	T456	species
+T356	Pseudoeurycea werleri	T456	species
+T357	Ptychohyla acrochorda	T457	species
+T358	Ptychohyla euthysanota	T457	species
+T359	Ptychohyla leonhardschultzei	T457	species
+T360	Ptychohyla zophodes	T457	species
+T361	Rana boylii	T458	species
+T362	Rana draytonii	T458	species
+T363	Rhinella marina	T459	species
+T364	Rhinophrynus dorsalis	T460	species
+T365	Scaphiopus couchii	T461	species
+T366	Scaphiopus hurterii	T461	species
+T367	Siren intermedia	T462	species
+T368	Siren lacertina	T462	species
+T369	Smilisca baudinii	T463	species
+T370	Smilisca fodiens	T463	species
+T371	Spea bombifrons	T464	species
+T372	Spea hammondii	T464	species
+T373	Spea multiplicata	T464	species
+T374	Thorius arboreus	T465	species
+T375	Thorius aureus	T465	species
+T376	Thorius boreas	T465	species
+T377	Thorius dubitus	T465	species
+T378	Thorius grandis	T465	species
+T379	Thorius infernalis	T465	species
+T380	Thorius insperatus	T465	species
+T381	Thorius lunaris	T465	species
+T382	Thorius macdougalli	T465	species
+T383	Thorius magnipes	T465	species
+T384	Thorius minutissimus	T465	species
+T385	Thorius minydemus	T465	species
+T386	Thorius munificus	T465	species
+T387	Thorius narismagnus	T465	species
+T388	Thorius narisovalis	T465	species
+T389	Thorius omiltemi	T465	species
+T390	Thorius papaloae	T465	species
+T391	Thorius pennatulus	T465	species
+T392	Thorius pulmonaris	T465	species
+T393	Thorius schmidti	T465	species
+T394	Thorius smithi	T465	species
+T395	Thorius spilogaster	T465	species
+T396	Thorius troglodytes	T465	species
+T397	Tlalocohyla godmani	T466	species
+T398	Tlalocohyla loquax	T466	species
+T399	Tlalocohyla smithii	T466	species
+T400	Trachycephalus venulosus	T467	species
+T401	Triprion petasatus	T468	species
+T402	Hylidae	T418	family
+T403	Ambystomatidae	T418	family
+T404	Bufonidae	T418	family
+T405	Plethodontidae	T418	family
+T406	Craugastoridae	T418	family
+T407	Ceciliidae	T418	family
+T408	Eleutherodactylidae	T418	family
+T409	Leiuperidae	T418	family
+T410	Microhylidae	T418	family
+T411	Centrolenidae	T418	family
+T412	Leptodactylidae	T418	family
+T413	Ranidae	T418	family
+T414	Salamandridae	T418	family
+T415	Rhinophrynidae	T418	family
+T416	Scaphiopodidae	T418	family
+T417	Sirenidae	T418	family
+T418	Amphibia		class
+T419	Acris	T402	genus
+T420	Agalychnis	T402	genus
+T421	Ambystoma	T403	genus
+T422	Anaxyrus	T404	genus
+T423	Aneides	T405	genus
+T424	Batrachoseps	T405	genus
+T425	Bolitoglossa	T405	genus
+T426	Bromeliohyla	T402	genus
+T427	Charadrahyla	T402	genus
+T428	Chiropterotriton	T405	genus
+T429	Craugastor	T406	genus
+T430	Cryptotriton	T405	genus
+T431	Dendropsophus	T402	genus
+T432	Dendrotriton	T405	genus
+T433	Dermophis	T407	genus
+T434	Diaglena	T402	genus
+T435	Duellmanohyla	T402	genus
+T436	Ecnomiohyla	T402	genus
+T437	Eleutherodactylus	T408	genus
+T438	Engystomops	T409	genus
+T439	Ensatina	T405	genus
+T440	Exerodonta	T402	genus
+T441	Gastrophryne	T410	genus
+T442	Hyalinobatrachium	T411	genus
+T443	Hyla	T402	genus
+T444	Hypopachus	T410	genus
+T445	Incilius	T404	genus
+T446	Leptodactylus	T412	genus
+T447	Lithobates	T413	genus
+T448	Megastomatohyla	T402	genus
+T449	Notophthalmus	T414	genus
+T450	Nyctanolis	T405	genus
+T451	Oedipina	T405	genus
+T452	Pachymedusa	T402	genus
+T453	Parvimolge	T405	genus
+T454	Plectrohyla	T402	genus
+T455	Pseudacris	T402	genus
+T456	Pseudoeurycea	T405	genus
+T457	Ptychohyla	T402	genus
+T458	Rana	T413	genus
+T459	Rhinella	T404	genus
+T460	Rhinophrynus	T415	genus
+T461	Scaphiopus	T416	genus
+T462	Siren	T417	genus
+T463	Smilisca	T402	genus
+T464	Spea	T416	genus
+T465	Thorius	T405	genus
+T466	Tlalocohyla	T402	genus
+T467	Trachycephalus	T402	genus
+T468	Triprion	T402	genus
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
