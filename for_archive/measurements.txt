@@ -1760,9 +1760,9 @@ M2353	C732		true	http://purl.obolibrary.org/obo/VT_0001256	20.6	http://purl.obol
 M2354	C732		true	http://purl.obolibrary.org/obo/VT_0001256	26.9	http://purl.obolibrary.org/obo/UO_0000016	http://semanticscience.org/resource/SIO_001114	http://eol.org/data_objects/23856122			Compiler: Anne E. Thessen, Compiler: Esther Quintero, Compiler: Paulina Arias Caballero
 		M2354		http://eol.org/schema/terms/SampleSize	12						Compiler: Anne E. Thessen, Compiler: Esther Quintero, Compiler: Paulina Arias Caballero
 M2356	C895		true	http://purl.obolibrary.org/obo/VT_0001256	21.8	http://purl.obolibrary.org/obo/UO_0000016	http://semanticscience.org/resource/SIO_001109	http://eol.org/data_objects/23856122			Compiler: Anne E. Thessen, Compiler: Esther Quintero, Compiler: Paulina Arias Caballero
-		M2356		http://eol.org/schema/terms/SampleSize							Compiler: Anne E. Thessen, Compiler: Esther Quintero, Compiler: Paulina Arias Caballero
+		M2356		http://eol.org/schema/terms/SampleSize	16						Compiler: Anne E. Thessen, Compiler: Esther Quintero, Compiler: Paulina Arias Caballero
 M2357	C895		true	http://purl.obolibrary.org/obo/VT_0001256	18.2	http://purl.obolibrary.org/obo/UO_0000016	http://semanticscience.org/resource/SIO_001113	http://eol.org/data_objects/23856122			Compiler: Anne E. Thessen, Compiler: Esther Quintero, Compiler: Paulina Arias Caballero
-		M2357		http://eol.org/schema/terms/SampleSize							Compiler: Anne E. Thessen, Compiler: Esther Quintero, Compiler: Paulina Arias Caballero
+		M2357		http://eol.org/schema/terms/SampleSize	16						Compiler: Anne E. Thessen, Compiler: Esther Quintero, Compiler: Paulina Arias Caballero
 M2358	C895		true	http://purl.obolibrary.org/obo/VT_0001256	24.4	http://purl.obolibrary.org/obo/UO_0000016	http://semanticscience.org/resource/SIO_001114	http://eol.org/data_objects/23856122			Compiler: Anne E. Thessen, Compiler: Esther Quintero, Compiler: Paulina Arias Caballero
 		M2358		http://eol.org/schema/terms/SampleSize	16						Compiler: Anne E. Thessen, Compiler: Esther Quintero, Compiler: Paulina Arias Caballero
 M2360	C733		true	http://eol.org/schema/terms/DevelopmentalMode	http://eol.org/schema/terms/directDeveloper			http://eol.org/data_objects/31287564			Compiler: Anne E. Thessen, Compiler: Esther Quintero, Compiler: Paulina Arias Caballero
