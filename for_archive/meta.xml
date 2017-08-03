@@ -32,6 +32,7 @@
     </files>
     <field index="0" term="http://rs.tdwg.org/dwc/terms/occurrenceID"/>
     <field index="1" term="http://rs.tdwg.org/dwc/terms/taxonID"/>
+    <field index="2" term="http://rs.tdwg.org/dwc/terms/country"/>
   </table>
   <table encoding="UTF-8" fieldsTerminatedBy="\t" linesTerminatedBy="\n" ignoreHeaderLines="1" rowType="http://eol.org/schema/reference/Reference">
     <files>
